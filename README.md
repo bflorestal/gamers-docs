@@ -1,4 +1,4 @@
-# site-gaming
+# Gamers Docs
 Projet de groupe sur le thème du gaming, réalisé en 1ère année de DUT MMI
 
 ### Membres du groupe : 
